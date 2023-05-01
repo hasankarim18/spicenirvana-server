@@ -1,0 +1,76 @@
+{
+  "chefs": [
+    { 
+      "id":1,
+      "name": "Chef 1",
+      "chef_id":1,
+      "recipes": [
+        {
+          "name": "Butter Chicken",
+          "ingredients": [
+            "1 lb boneless chicken breast",
+            "1 cup plain yogurt",
+            "1 tsp chili powder",
+            "1 tsp garam masala",
+            "1 tsp turmeric",
+            "1 tsp cumin",
+            "1/2 tsp salt",
+            "1/2 cup tomato puree",
+            "1/2 cup heavy cream",
+            "2 tbsp butter",
+            "1 tbsp vegetable oil",
+            "1 onion, chopped",
+            "4 garlic cloves, minced",
+            "1-inch piece of ginger, grated"
+          ],
+          "method": "Marinate chicken in yogurt and spices. Sauté onion, garlic, and ginger, add chicken and tomato puree, simmer until chicken is cooked. Add cream and butter and simmer for another 5-10 minutes. Serve hot with rice or naan.",
+          "image": "https://example.com/butter-chicken.jpg"
+        },
+        { 
+          "id":2,
+          "name": "Chana Masala",
+          "ingredients": [
+            "1 can chickpeas",
+            "1 onion, chopped",
+            "4 garlic cloves, minced",
+            "1-inch piece of ginger, grated",
+            "1 tbsp vegetable oil",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/2 tsp chili powder",
+            "1/2 tsp garam masala",
+            "1/2 tsp salt",
+            "1/2 cup tomato puree",
+            "1/2 cup water"
+          ],
+          "method": "Sauté onion, garlic, and ginger, add spices and cook for 1-2 minutes. Add chickpeas, tomato puree, and water. Simmer for 15-20 minutes. Serve hot with rice or naan.",
+          "image": "https://example.com/chana-masala.jpg"
+        },
+        {
+          "id":3,
+          "name": "Samosas",
+          "ingredients": [
+            "1 lb potatoes, peeled and diced",
+            "1/2 cup peas",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1-inch piece of ginger, grated",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/2 tsp chili powder",
+            "1/2 tsp garam masala",
+            "1/2 tsp salt",
+            "2 tbsp vegetable oil",
+            "10 samosa wrappers",
+            "1 egg, beaten"
+          ],
+          "method": "Boil potatoes until tender, sauté onion, garlic, and ginger. Add spices and cook for 1-2 minutes. Add potatoes and peas and cook until heated through. Cut samosa wrappers into triangles, fill with potato mixture, and seal edges with egg wash. Fry in oil until golden brown. Serve hot with chutney.",
+          "image": "https://example.com/samosas.jpg"
+        }
+      ]
+    }
+]
+}
+    
