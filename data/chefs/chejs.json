@@ -7,7 +7,8 @@
       "likes_count": 5000,
       "short_bio": "Michelin-starred chef, restaurateur, cookbook writer, filmmaker, humanitarian, and judge on MasterChef India",
       "number_of_recipes": 250,
-      "chef_rating": 4.8
+      "chef_rating": 4.8,
+      "chef_image":"https://cdn.pixabay.com/photo/2015/02/25/17/33/kitchen-649110__340.jpg"
     },
     {
       "id": 2,
@@ -17,7 +18,8 @@
       "likes_count": 7500,
       "short_bio": "Celebrity chef, entrepreneur, and television personality",
       "number_of_recipes": 500,
-      "chef_rating": 4.7
+      "chef_rating": 4.7,
+      "chef_image":"https://cdn.pixabay.com/photo/2016/11/22/19/33/asian-cuisine-1850233__340.jpg"
     },
     {
       "id": 3,
@@ -27,7 +29,8 @@
       "likes_count": 10000,
       "short_bio": "Cookbook author and host of several cooking shows",
       "number_of_recipes": 1000,
-      "chef_rating": 4.5
+      "chef_rating": 4.5,
+      "chef_image":"https://cdn.pixabay.com/photo/2019/02/04/22/05/chef-3975835__340.jpg"
     },
     {
       "id": 4,
@@ -37,7 +40,8 @@
       "likes_count": 15000,
       "short_bio": "Actress, food and travel writer, and television personality",
       "number_of_recipes": 750,
-      "chef_rating": 4.6
+      "chef_rating": 4.6,
+      "chef_image":"https://cdn.pixabay.com/photo/2021/02/08/07/39/chef-5993951__340.jpg"
     },
     {
       "id": 5,
@@ -47,7 +51,8 @@
       "likes_count": 3000,
       "short_bio": "Celebrity chef, restaurateur, and television personality",
       "number_of_recipes": 200,
-      "chef_rating": 4.9
+      "chef_rating": 4.9,
+      "chef_image":"https://cdn.pixabay.com/photo/2015/09/14/11/43/restaurant-939436__340.jpg"
     },
     {
       "id": 6,
@@ -57,7 +62,8 @@
       "likes_count": 6000,
       "short_bio": "Michelin-starred chef, restaurateur, and television personality",
       "number_of_recipes": 300,
-      "chef_rating": 4.7
+      "chef_rating": 4.7,
+      "chef_image":"https://cdn.pixabay.com/photo/2014/09/05/13/31/food-436368__340.jpg"
     }
   ]
 
