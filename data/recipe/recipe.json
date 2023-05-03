@@ -5,7 +5,8 @@
       "recipe_name": "Murgh Makhani (Butter Chicken)",
       "ingredients": ["Chicken", "Butter", "Tomato Puree", "Cream", "Ginger", "Garlic", "Green Chilies", "Garam Masala", "Salt", "Sugar", "Kasuri Methi"],
       "method": "1. Marinate chicken in yogurt, ginger, garlic, and salt for 2 hours. \n2. Roast marinated chicken in the oven. \n3. Saute butter, ginger, garlic, and green chilies. \n4. Add tomato puree, cream, sugar, and garam masala. \n5. Add roasted chicken to the sauce and cook for 5 minutes. \n6. Sprinkle kasuri methi on top and serve hot.",
-      "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/poorvi/murgh_makhani_butter_chicken_recipe.jpg"
+      "image": "https://cdn.pixabay.com/photo/2022/01/06/05/57/food-6918675__340.jpg",
+      "rating":5
     },
     {
       "id": 2,
@@ -13,7 +14,8 @@
       "recipe_name": "Paneer Tikka Masala",
       "ingredients": ["Paneer", "Yogurt", "Ginger-Garlic Paste", "Garam Masala", "Salt", "Tomato Puree", "Cream", "Butter", "Kasuri Methi"],
       "method": "1. Marinate paneer in yogurt, ginger-garlic paste, and garam masala for 2 hours. \n2. Roast marinated paneer in the oven. \n3. Saute butter, ginger, garlic, and garam masala. \n4. Add tomato puree, salt, and cream. \n5. Add roasted paneer to the sauce and cook for 5 minutes. \n6. Sprinkle kasuri methi on top and serve hot.",
-      "image": "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2015/12/paneer-tikka-masala-recipe-1.jpg"
+       "image": "https://cdn.pixabay.com/photo/2021/07/14/09/29/food-6465556__340.jpg",
+       "rating":5
     },
     {
       "id": 3,
@@ -21,7 +23,8 @@
       "recipe_name": "Dal Makhani",
       "ingredients": ["Black Lentils", "Red Kidney Beans", "Butter", "Cream", "Tomato Puree", "Ginger", "Garlic", "Green Chilies", "Garam Masala", "Salt"],
       "method": "1. Soak black lentils and red kidney beans overnight. \n2. Pressure cook the lentils and beans with salt and water for 30 minutes. \n3. Saute ginger, garlic, and green chilies in butter. \n4. Add tomato puree, cream, and garam masala. \n5. Add cooked lentils and beans to the sauce and cook for 15 minutes. \n6. Serve hot.",
-      "image": "https://www.cookwithmanali.com/wp-content/uploads/2013/07/dal-makhani-500x375.jpg"
+      "image": "https://cdn.pixabay.com/photo/2017/11/15/07/07/indian-food-2951094__340.jpg",
+      "rating":5
     },
     {
       "id": 4,
@@ -29,7 +32,8 @@
       "recipe_name": "Tandoori Chicken",
       "ingredients": ["Chicken", "Yogurt", "Ginger-Garlic Paste", "Red Chili Powder", "Coriander Powder"],
       "method": "1. Marinate chicken in yogurt, ginger-garlic paste, red chili powder, coriander powder, and salt for 2 hours. \n2. Roast marinated chicken in the oven or grill. \n3. Serve hot with lemon wedges and mint chutney.",
-      "image": "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2013/10/tandoori-chicken-on-skewers-1a.jpg"
+      "image": "https://cdn.pixabay.com/photo/2022/05/25/07/46/eri-pori-charcoal-7219974__340.jpg",
+      "rating":5
           
     },
     {
@@ -38,7 +42,8 @@
       "recipe_name": "Masala Dosa",
       "ingredients": ["Rice", "Urad Dal", "Chana Dal", "Fenugreek Seeds", "Potatoes", "Onion", "Green Chilies", "Mustard Seeds", "Curry Leaves", "Oil", "Salt"],
       "method": "1. Soak rice, urad dal, chana dal, and fenugreek seeds overnight. \n2. Grind the soaked ingredients into a fine batter. \n3. Ferment the batter for 8 hours. \n4. Make potato filling by sauteing onion, green chilies, and boiled potatoes with mustard seeds, curry leaves, and salt. \n5. Spread a ladleful of batter on a hot griddle and add a spoonful of potato filling in the center. \n6. Fold the dosa and serve hot with coconut chutney and sambar.",
-      "image": "https://www.cookwithmanali.com/wp-content/uploads/2013/09/masala-dosa-recipe-500x375.jpg"
+      "image": "https://cdn.pixabay.com/photo/2014/05/15/17/55/dosa-345068__340.jpg",
+      "rating":5
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "recipe_name": "Samosa",
       "ingredients": ["Potatoes", "Peas", "Onion", "Green Chilies", "Ginger", "Cumin Seeds", "Coriander Powder", "Garam Masala", "Turmeric Powder", "Oil", "Salt"],
       "method": "1. Make the filling by sauteing onion, green chilies, and ginger in oil. \n2. Add boiled and mashed potatoes and peas to the sauteed mixture. \n3. Add cumin seeds, coriander powder, garam masala, turmeric powder, and salt to the filling. \n4. Make dough by mixing flour, oil, and salt. \n5. Roll the dough into small circles and add a spoonful of filling in the center. \n6. Fold the dough into a triangle and seal the edges. \n7. Fry the samosas in hot oil until golden brown. \n8. Serve hot with tamarind chutney or mint chutney.",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/11/samosa-recipe-1-500x375.jpg"
+       "image": "https://cdn.pixabay.com/photo/2022/05/07/11/37/samosa-7180078__340.jpg",
+       "rating":5
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "recipe_name": "Palak Paneer",
       "ingredients": ["Spinach", "Paneer", "Onion", "Tomato", "Ginger", "Garlic", "Green Chilies", "Cumin Seeds", "Coriander Powder", "Turmeric Powder", "Garam Masala", "Oil", "Salt"],
             "method": "1. Blanch spinach and blend into a puree. \n2. Saute onion, ginger, garlic, and green chilies in oil. \n3. Add tomato and cook until it turns mushy. \n4. Add cumin seeds, coriander powder, turmeric powder, and garam masala. \n5. Add the spinach puree to the mixture and cook for a few minutes. \n6. Add cubed paneer to the mixture and cook for a few more minutes. \n7. Serve hot with naan or rice.",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/03/palak-paneer-recipe-2.jpg"
+        "image": "https://cdn.pixabay.com/photo/2016/08/29/16/25/water-spinach-1628620__340.jpg",
+        "rating":5
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "recipe_name": "Rogan Josh",
       "ingredients": ["Lamb", "Yogurt", "Onion", "Tomato", "Ginger", "Garlic", "Cumin Seeds", "Coriander Powder", "Red Chili Powder", "Fennel Seeds", "Cinnamon", "Cloves", "Cardamom", "Oil", "Salt"],
       "method": "1. Marinate lamb in yogurt, red chili powder, and salt for 2 hours. \n2. Saute onion, ginger, and garlic in oil. \n3. Add cumin seeds, coriander powder, fennel seeds, cinnamon, cloves, and cardamom. \n4. Add tomato and cook until it turns mushy. \n5. Add the marinated lamb to the mixture and cook for a few minutes. \n6. Add water and cook on low heat until the lamb is tender. \n7. Serve hot with rice or naan.",
-      "image": "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2013/04/rogan-josh-recipe-1.jpg"
+       "image": "https://cdn.pixabay.com/photo/2022/05/17/05/10/mutton-curry-7201675__340.jpg",
+       "rating":5
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "recipe_name": "Chicken Biryani",
       "ingredients": ["Basmati Rice", "Chicken", "Onion", "Tomato", "Ginger", "Garlic", "Green Chilies", "Cumin Seeds", "Coriander Powder", "Red Chili Powder", "Turmeric Powder", "Cinnamon", "Cloves", "Cardamom", "Bay Leaves", "Oil", "Salt"],
       "method": "1. Marinate chicken in yogurt, ginger-garlic paste, red chili powder, coriander powder, and salt for 2 hours. \n2. Cook rice until 3/4th done. \n3. Saute onion, ginger, garlic, and green chilies in oil. \n4. Add cumin seeds, coriander powder, red chili powder, turmeric powder, cinnamon, cloves, cardamom, and bay leaves. \n5. Add tomato and cook until it turns mushy. \n6. Add the marinated chicken to the mixture and cook for a few minutes. \n7. Layer the cooked rice and chicken mixture in a pot. \n8. Cook on low heat until the rice is fully cooked. \n9. Serve hot with raita and papad.",
-      "image": "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2013/07/hyderabadi-biryani"
+       "image": "https://cdn.pixabay.com/photo/2021/01/22/19/48/grilled-5940974__340.jpg",
+       "rating":5
     },
     {
   "id": 10,
@@ -78,7 +87,8 @@
   "recipe_name": "Chettinad Chicken Curry",
   "ingredients": ["Chicken", "Coconut Oil", "Onion", "Tomatoes", "Ginger", "Garlic", "Curry Leaves", "Green Chilies", "Cumin Seeds", "Fennel Seeds", "Coriander Seeds", "Black Peppercorns", "Cinnamon Stick", "Cardamom Pods", "Cloves", "Turmeric Powder", "Red Chili Powder", "Salt", "Coconut Milk"],
   "method": "1. Heat coconut oil in a pan and add onion, ginger, garlic, curry leaves, and green chilies. Saute until the onions are translucent. \n2. Add cumin seeds, fennel seeds, coriander seeds, black peppercorns, cinnamon stick, cardamom pods, and cloves. Saute until fragrant. \n3. Add turmeric powder, red chili powder, and salt. Mix well. \n4. Add tomatoes and cook until the tomatoes are mushy. \n5. Add chicken and stir well. \n6. Add water and let the chicken cook on low heat. \n7. Once the chicken is cooked, add coconut milk and let it simmer for 5-10 minutes. \n8. Serve hot with rice or roti.", 
-  "image": "https://example.com/chettinad-chicken-curry.jpg"
+  "image": "https://cdn.pixabay.com/photo/2016/07/22/05/07/delicious-1534207__340.jpg",
+  "rating":5
 },
 {
   "id": 11,
@@ -86,7 +96,8 @@
   "recipe_name": "Egg Curry",
   "ingredients": ["Eggs", "Onion", "Tomato", "Ginger", "Garlic", "Green Chilies", "Cumin Seeds", "Coriander Powder", "Turmeric Powder", "Garam Masala", "Oil", "Salt"],
   "method": "1. Boil eggs and cut them into halves. \n2. Saute onion, ginger, garlic, and green chilies in oil. \n3. Add cumin seeds, coriander powder, turmeric powder, and garam masala. \n4. Add tomato and cook until it turns mushy. \n5. Add water and let the mixture cook for a few minutes. \n6. Add salt and boiled eggs. \n7. Simmer for 5-10 minutes. \n8. Garnish with coriander leaves and serve with rice or roti.", 
-  "image": "https://example.com/egg-curry.jpg"
+   "image": "https://cdn.pixabay.com/photo/2015/10/01/14/29/curry-967086__340.jpg",
+   "rating":5
 },
 {
   "id": 12,
@@ -94,7 +105,8 @@
   "recipe_name": "Paneer Butter Masala",
   "ingredients": ["Paneer", "Tomatoes", "Onion", "Ginger", "Garlic", "Green Chilies", "Kashmiri Red Chili Powder", "Coriander Powder", "Garam Masala Powder", "Butter", "Kasuri Methi", "Cream", "Salt"],
   "method": "1. Cut paneer into small cubes and fry until golden brown. \n2. Saute onion, ginger, garlic, and green chilies in butter until they turn translucent. \n3. Add tomatoes and cook until they turn mushy. \n4. Add kashmiri red chili powder, coriander powder, and garam masala powder. \n5. Add salt and let the mixture cook for a few minutes. \n6. Add kasuri methi and cream. \n7. Add paneer cubes and let the mixture simmer for 5-10 minutes. \n8. Serve hot with rice or roti.",
-  "image": "https://example.com/paneer-butter-masala.jpg"
+   "image": "https://cdn.pixabay.com/photo/2020/03/13/20/16/paneer-tikka-4929034__340.jpg",
+   "rating":5
 },
 {
   "id": 13,
@@ -102,7 +114,8 @@
   "recipe_name": "Fish Curry",
   "ingredients": ["Fish", "Onion", "Tomato", "Ginger", "Garlic", "Green Chilies", "Cumin Seeds", "Coriander Powder", "Turmeric Powder", "Red Chili Powder", "Coconut Milk", "Tamarind", "Oil", "Salt"],
   "method": "1. Marinate fish with turmeric powder and salt. \n2. Fry the fish until golden brown. \n3. Saute onion, ginger, garlic, and green chilies in oil. \n4. Add cumin seeds, coriander powder, turmeric powder, and red chili powder. \n5. Add tomato and cook until it turns mushy. \n6. Add water, tamarind, and salt. \n7. Add the fried fish and let the mixture simmer for 5-10 minutes. \n8. Add coconut milk and let the curry cook for a few more minutes. \n9. Serve hot with rice.",
-  "image": "https://example.com/fish-curry.jpg"
+   "image": "https://cdn.pixabay.com/photo/2021/05/16/06/55/food-6257358__340.jpg",
+   "rating":5
 },
 {
   "id": 14,
@@ -110,7 +123,8 @@
   "recipe_name": "Chicken Kebab",
   "ingredients": ["Chicken", "Yogurt", "Ginger Paste", "Garlic Paste", "Turmeric Powder", "Coriander Powder", "Cumin Powder", "Red Chili Powder", "Garam Masala Powder", "Lemon Juice", "Salt"],
   "method": "1. Cut chicken into small pieces and marinate it with yogurt, ginger paste, garlic paste, turmeric powder, coriander powder, cumin powder, red chili powder, garam masala powder, lemon juice, and salt. \n2. Skewer the chicken pieces and grill them until they are cooked. \n3. Serve hot with mint chutney.",
-  "image": "https://example.com/chicken-kebab.jpg"
+   "image": "https://cdn.pixabay.com/photo/2013/02/21/19/12/barbecue-84671__340.jpg",
+   "rating":5
 },
 {
   "id": 15,
@@ -118,7 +132,8 @@
   "recipe_name": "Palak Paneer",
   "ingredients": ["Spinach", "Paneer", "Onion", "Tomato", "Ginger", "Garlic", "Green Chilies", "Cumin Seeds", "Coriander Powder", "Turmeric Powder", "Red Chili Powder", "Garam Masala Powder", "Cream", "Salt"],
   "method": "1. Blanch spinach leaves in boiling water for 2-3 minutes. \n2. Blend the blanched spinach leaves into a fine puree. \n3. Saute onion, ginger, garlic, and green chilies in oil. \n4. Add cumin seeds, coriander powder, turmeric powder, and red chili powder. \n5. Add tomato and cook until it turns mushy. \n6. Add spinach puree and let the mixture cook for a few minutes. \n7. Add salt and garam masala powder. \n8. Add paneer cubes and let the mixture simmer for 5-10 minutes. \n9. Add cream and let the curry cook for a few more minutes. \n10. Serve hot with rice or roti.",
-  "image": "https://example.com/palak-paneer.jpg"
+   "image": "https://cdn.pixabay.com/photo/2016/08/29/16/25/water-spinach-1628620__340.jpg",
+   "rating":5
 },
 {
   "id": 16,
@@ -126,7 +141,8 @@
   "recipe_name": "Gulab Jamun",
   "ingredients": ["Milk Powder", "Flour", "Baking Powder", "Ghee", "Milk", "Sugar", "Water", "Cardamom Powder"],
   "method": "1. Mix milk powder, flour, and baking powder in a bowl. \n2. Add ghee and mix until the mixture looks crumbly. \n3. Add milk and mix to form a dough. \n4. Make small balls out of the dough. \n5. Heat oil in a pan and fry the dough balls until they turn golden brown. \n6. Boil water and sugar in another pan to make syrup. \n7. Add cardamom powder to the syrup. \n8. Soak the fried dough balls in the syrup for 1-2 hours. \n9. Serve hot or cold.",
-  "image": "https://example.com/gulab-jamun.jpg"
+  "image": "https://cdn.pixabay.com/photo/2014/06/18/15/48/indian-sweet-371357__340.jpg",
+  "rating":5
 },
 {
   "id": 17,
@@ -134,7 +150,8 @@
   "recipe_name": "Mango Lassi",
   "ingredients": ["Mango Pulp", "Yogurt", "Milk", "Sugar", "Cardamom Powder", "Ice Cubes"],
   "method": "1. Blend mango pulp, yogurt, milk, sugar, and cardamom powder in a blender until smooth. \n2. Add ice cubes and blend again until they are crushed. \n3. Serve chilled in glasses.",
-  "image": "https://example.com/mango-lassi.jpg"
+  "image": "https://cdn.pixabay.com/photo/2015/08/13/12/50/smothie-886965__340.jpg",
+  "rating":5
 },
 {
   "id": 18,
@@ -142,7 +159,8 @@
   "recipe_name": "Masala Dosa",
   "ingredients": ["Dosa Batter", "Potatoes", "Onions", "Green Chilies", "Ginger", "Mustard Seeds", "Cumin Seeds", "Turmeric Powder", "Curry Leaves", "Oil"],
   "method": "1. Boil and mash the potatoes. \n2. Heat oil in a pan and add mustard seeds and cumin seeds. \n3. Add chopped onions, green chilies, and ginger and sauté for a few minutes. \n4. Add turmeric powder, curry leaves, and mashed potatoes and mix well. \n5. Heat a non-stick tawa and spread a ladleful of dosa batter. \n6. Drizzle oil on the sides and cook until the bottom is golden brown. \n7. Flip and cook the other side until it's crispy. \n8. Serve hot with potato filling and chutney.",
-  "image": "https://example.com/masala-dosa.jpg"
+   "image": "https://cdn.pixabay.com/photo/2017/02/15/16/49/dosa-2069313__340.jpg",
+   "rating":5
 },
 {
   "id": 19,
@@ -150,7 +168,8 @@
   "recipe_name": "Pav Bhaji",
   "ingredients": ["Potatoes", "Cauliflower", "Carrots", "Peas", "Onions", "Tomatoes", "Garlic", "Ginger", "Turmeric Powder", "Red Chili Powder", "Garam Masala Powder", "Butter", "Pav Buns"],
   "method": "1. Boil and mash the potatoes, cauliflower, carrots, and peas. \n2. Heat butter in a pan and add chopped onions. \n3. Add chopped garlic and ginger and sauté for a few minutes. \n4. Add chopped tomatoes and cook until they are soft. \n5. Add turmeric powder, red chili powder, and garam masala powder and mix well. \n6. Add mashed vegetables and mix well. \n7. Cook for a few minutes until the vegetables are well combined. \n8. Heat pav buns on a tawa with butter. \n9. Serve hot with pav buns and chopped onions.",
-  "image": "https://example.com/pav-bhaji.jpg"
+   "image": "https://cdn.pixabay.com/photo/2014/06/18/16/02/pav-bhaji-371377__340.jpg",
+   "rating":5
 },
 {
   "id": 20,
@@ -158,7 +177,8 @@
   "recipe_name": "Rava Kesari",
   "ingredients": ["Semolina", "Sugar", "Ghee", "Water", "Cardamom Powder", "Cashews", "Raisins"],
   "method": "1. Heat ghee in a pan and fry cashews and raisins until golden brown. \n2. Add semolina and roast until it turns light brown. \n3. Add water and mix well. \n4. Add sugar and cardamom powder and mix well. \n5. Cook until the kesari starts to thicken. \n6. Add ghee and mix well. \n7. Serve hot.",
-  "image": "https://example.com/rava-kesari.jpg"
+  "image": "https://cdn.pixabay.com/photo/2014/07/21/23/00/orange-cake-398966__340.jpg",
+  "rating":5
 },
 {
   "id": 21,
@@ -166,7 +186,8 @@
   "recipe_name": "Coconut Chutney",
   "ingredients": ["Coconut", "Roasted Chana Dal", "Green Chilies", "Ginger", "Curry Leaves", "Mustard Seeds", "Cumin Seeds", "Asafoetida", "Salt", "Water"],
   "method": "1. Grind coconut, roasted chana dal, green chilies, ginger, and curry leaves into a fine paste. \n2. Heat oil in a pan and add mustard seeds and cumin seeds. \n3. Add asafoetida and sauté for a few seconds. \n4. Add the ground paste and salt and mix well. \n5. Add water and mix well. \n6. Cook for a few minutes until the chutney thickens. \n7. Serve with dosa or idli.",
-  "image": "https://example.com/coconut-chutney.jpg"
+  "image": "https://cdn.pixabay.com/photo/2017/09/28/06/50/oil-discharge-2794477__340.jpg",
+  "rating":5
 },
 {
   "id": 22,
@@ -174,7 +195,8 @@
   "recipe_name": "Butter Chicken",
   "ingredients": ["Chicken", "Butter", "Tomatoes", "Onions", "Ginger", "Garlic", "Garam Masala", "Kashmiri Red Chili Powder", "Turmeric Powder", "Cumin Powder", "Coriander Powder", "Kasuri Methi", "Fresh Cream", "Salt"],
   "method": "1. Marinate chicken with salt, ginger garlic paste, and Kashmiri red chili powder for 30 minutes. \n2. Heat butter in a pan and add marinated chicken. Fry until golden brown. \n3. In the same pan, add onions and fry until they turn golden brown. \n4. Add ginger garlic paste and fry for a few seconds. \n5. Add chopped tomatoes and cook until they are soft. \n6. Add garam masala, turmeric powder, cumin powder, coriander powder, and Kashmiri red chili powder. Mix well. \n7. Add a little water and cook for a few minutes. \n8. Crush kasuri methi with your palms and add to the gravy. \n9. Add fresh cream and mix well. \n10. Add the fried chicken and cook for 5-7 minutes. \n11. Serve hot with naan or rice.",
-  "image": "https://example.com/butter-chicken.jpg"
+  "image": "https://cdn.pixabay.com/photo/2018/04/24/15/58/eat-3347288__340.jpg",
+  "rating":5
 },
 {
   "id": 23,
@@ -182,7 +204,8 @@
   "recipe_name": "Samosa",
   "ingredients": ["Potatoes", "Peas", "Onion", "Green Chilies", "Ginger", "Coriander Leaves", "Cumin Seeds", "Coriander Powder", "Garam Masala Powder", "Red Chili Powder", "Turmeric Powder", "Oil", "Salt", "Water", "All-Purpose Flour"],
   "method": "1. Boil and mash potatoes. \n2. Heat oil in a pan and add cumin seeds. \n3. Add finely chopped onions, green chilies, ginger, and coriander leaves. \n4. Add peas and cook for a few minutes. \n5. Add mashed potatoes, coriander powder, garam masala powder, red chili powder, turmeric powder, and salt. Mix well. \n6. Let the mixture cool down. \n7. For the dough, mix all-purpose flour, salt, and water. Knead well. \n8. Roll out the dough into small circles. \n9. Cut each circle into two halves. \n10. Make a cone shape from each half and fill it with the potato mixture. \n11. Seal the edges with water. \n12. Deep fry in oil until golden brown. \n13. Serve hot with mint chutney.",
-  "image": "https://example.com/samosa.jpg"
+  "image": "https://cdn.pixabay.com/photo/2022/05/07/11/37/samosa-7180078__340.jpg",
+  "rating":5
 },
 {
   "id": 24,
@@ -190,7 +213,8 @@
   "recipe_name": "Chana Masala",
   "ingredients": ["Chickpeas", "Onion", "Tomatoes", "Green Chilies", "Ginger", "Garlic", "Cumin Seeds", "Coriander Powder", "Turmeric Powder", "Red Chili Powder", "Garam Masala Powder", "Amchur Powder", "Kasuri Methi", "Oil", "Salt", "Water"],
   "method": "1. Soak chickpeas overnight and pressure cook until soft. \n2. Heat oil in a pan and add cumin seeds. \n3. Add finely chopped onions, green chilies, ginger, and garlic. \n4. Fry until onions turn golden brown. \n5. Add chopped tomatoes and cook until they are soft. \n6. Add coriander powder, turmeric powder, red chili powder, and garam masala powder. Mix well. \n7. Add cooked chickpeas and mix well. \n8. Add water and bring to a boil. \n9. Add kasuri methi and amchur powder. Mix well. \n10. Cook for a few minutes. \n11. Serve hot with rice or naan.",
-  "image": "https://example.com/chana-masala.jpg"
+  "image": "https://cdn.pixabay.com/photo/2015/03/16/21/59/chana-676882__340.jpg",
+  "rating":5
 }
 ]
 
