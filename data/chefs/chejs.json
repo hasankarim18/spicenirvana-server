@@ -1,0 +1,63 @@
+ [
+    {
+      "id": 1,
+      "chef_id": "c001",
+      "chef_name": "Vikas Khanna",
+      "number_of_experience": 20,
+      "likes_count": 5000,
+      "short_bio": "Michelin-starred chef, restaurateur, cookbook writer, filmmaker, humanitarian, and judge on MasterChef India",
+      "number_of_recipes": 250,
+      "chef_rating": 4.8
+    },
+    {
+      "id": 2,
+      "chef_id": "c002",
+      "chef_name": "Sanjeev Kapoor",
+      "number_of_experience": 30,
+      "likes_count": 7500,
+      "short_bio": "Celebrity chef, entrepreneur, and television personality",
+      "number_of_recipes": 500,
+      "chef_rating": 4.7
+    },
+    {
+      "id": 3,
+      "chef_id": "c003",
+      "chef_name": "Tarla Dalal",
+      "number_of_experience": 40,
+      "likes_count": 10000,
+      "short_bio": "Cookbook author and host of several cooking shows",
+      "number_of_recipes": 1000,
+      "chef_rating": 4.5
+    },
+    {
+      "id": 4,
+      "chef_id": "c004",
+      "chef_name": "Madhur Jaffrey",
+      "number_of_experience": 50,
+      "likes_count": 15000,
+      "short_bio": "Actress, food and travel writer, and television personality",
+      "number_of_recipes": 750,
+      "chef_rating": 4.6
+    },
+    {
+      "id": 5,
+      "chef_id": "c005",
+      "chef_name": "Ranveer Brar",
+      "number_of_experience": 15,
+      "likes_count": 3000,
+      "short_bio": "Celebrity chef, restaurateur, and television personality",
+      "number_of_recipes": 200,
+      "chef_rating": 4.9
+    },
+    {
+      "id": 6,
+      "chef_id": "c006",
+      "chef_name": "Atul Kochhar",
+      "number_of_experience": 25,
+      "likes_count": 6000,
+      "short_bio": "Michelin-starred chef, restaurateur, and television personality",
+      "number_of_recipes": 300,
+      "chef_rating": 4.7
+    }
+  ]
+
