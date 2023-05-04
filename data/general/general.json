@@ -16,6 +16,24 @@
             "image":"https://hasanmahbub.com/template/images/3.jpg",
             "punch":"From classic to contemporary, discover the art of cooking with our renowned chefs!"
         }
+    ],
+    "popular":[
+        {
+            "id":1,
+            "recipe_id":3
+        },
+        {
+            "id":1,
+            "recipe_id":20
+        },
+        {
+            "id":1,
+            "recipe_id":12
+        },
+        {
+            "id":1,
+            "recipe_id":10
+        }
     ]
 }
 
