@@ -5,11 +5,9 @@ Click here for `the private repo`: [https://classroom.github.com/a/ym3y0_ro](htt
 
 
 
-#### [Server Side Private repo link](https://classroom.github.com/a/1Xt5Fixs)
-Click here for the `private repo`: [https://classroom.github.com/a/1Xt5Fixs](https://classroom.github.com/a/1Xt5Fixs)
+## [Client Side github repo link](https://github.com/hasankarim18/spicenirvana-client)
 
 
 
-#### [Server Side Vercel `API` link](https://spicenirvana.vercel.app/)
-Click here for `Vercel API link`: [https://spicenirvana.vercel.app/](https://spicenirvana.vercel.app/)
+## [Server Side github repo link](https://github.com/hasankarim18/spicenirvana-server)
 
